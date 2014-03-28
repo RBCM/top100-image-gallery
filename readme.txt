@@ -136,3 +136,5 @@ Improved loading of scripts
 
 = 1.0.1 =
 More consistent styling with WordPress' Media Manager
+
+
